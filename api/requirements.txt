@@ -223,7 +223,7 @@ semantic-version==2.8.5
 Send2Trash==1.5.0
 simplegeneric==0.8.1
 singledispatch 
-sip==4.19.13
+sip==6.5.1
 six 
 smmap==4.0.0
 snowballstemmer==2.0.0

@@ -245,7 +245,6 @@ sql-magic==0.0.4
 SQLAlchemy 
 sqlparse 
 sympy 
-tables==3.6.1
 tblib 
 tensorboard==2.5.0
 tensorboard-data-server==0.6.1

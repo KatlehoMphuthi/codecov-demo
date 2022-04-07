@@ -42,7 +42,7 @@ colorama
 colorlover==0.3.0
 comet-ml==3.12.0
 comtypes==1.1.7
-conda==4.10.3
+conda==4.3.16
 conda-build==3.20.5
 conda-package-handling 
 conda-verify==3.4.2

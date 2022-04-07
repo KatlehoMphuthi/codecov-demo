@@ -171,7 +171,6 @@ Pygments
 pylint 
 PyMySQL==1.0.2
 PyNaCl 
-pyodbc===4.0.32
 pyOpenSSL 
 pyparsing==2.4.7
 pyreadline==2.1

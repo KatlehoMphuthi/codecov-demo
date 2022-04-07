@@ -37,7 +37,7 @@ chardet==3.0.4
 chart-studio==1.1.0
 click==7.1.2
 cloudpickle 
-clyent==1.2.2
+clyent==1.2.1
 colorama 
 colorlover==0.3.0
 comet-ml==3.12.0

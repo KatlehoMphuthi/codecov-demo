@@ -244,9 +244,6 @@ sql==0.4.0
 sql-magic==0.0.4
 SQLAlchemy 
 sqlparse 
-statsmodels==0.12.0
-stopwordsiso==0.6.1
-streamlit==0.84.2
 sympy 
 tables==3.6.1
 tblib 

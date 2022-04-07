@@ -128,7 +128,6 @@ Markdown==3.3.4
 MarkupSafe==2.0.0
 matplotlib==3.4.2
 mccabe==0.6.1
-menuinst
 mistune==0.8.4
 mkl-fft==1.2.0
 mkl-random==1.1.1
